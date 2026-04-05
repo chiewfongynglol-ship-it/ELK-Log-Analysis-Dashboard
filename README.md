@@ -13,4 +13,4 @@ A professional SIEM (Security Information and Event Management) setup using the 
 * **Docker & Docker Compose:** Containerized environment.
 * **Elasticsearch:** Data indexing and storage.
 * **Logstash:** Server-side data processing pipeline.
-* **Kibana:** Data visualization and SOC dashboard.
+* **Kibana:** Data visualization and SOC dashboard.mkdir screenshots
